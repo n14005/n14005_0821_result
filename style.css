@@ -1,0 +1,19 @@
+#menu{
+ text-align: center;
+ position:relative;
+ }
+ #menu ul{
+  text-align: center;
+  float:left;
+  left:50%;
+  pasition:relative;
+ }
+#menu li{
+ width: 20%;
+ float: left;
+ left:-50%;
+ psotion:relative;
+ }
+.center{
+ text-align: center;
+ }
